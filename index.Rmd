@@ -1,0 +1,12 @@
+---
+title: "Graham Tobin"
+
+---
+
+Hello, Website!
+
+```{r}
+vector <- c(0:10)
+vector2 <- c(5:8)
+plot(vector[1],vector2[1])
+```

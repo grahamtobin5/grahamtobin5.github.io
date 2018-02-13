@@ -1,0 +1,12 @@
+name: "Graham Tobin"
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: espresso
