@@ -3,7 +3,7 @@ title: "Graham Tobin"
 
 ---
 
-Hello, Website!
+Hello, welcome to my Website!
 
 
-![My brother and I.](Users/grahamtobin/Downloads/IMG_1694.JPG)
+
