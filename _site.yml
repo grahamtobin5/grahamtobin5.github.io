@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Links"
+      href: links.html
 output:
   html_document:
     theme: cerulean

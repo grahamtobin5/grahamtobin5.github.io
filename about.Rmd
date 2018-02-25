@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "About Me"
 ---
 
-More about this website.
+"Hello, my name is Graham Tobin. I am a junior at Appalachian State. I am studying Mathematics and Computer Science with aspirations to become a Software Developer. I enjoy hiking, reading, and eating."
