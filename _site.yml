@@ -10,5 +10,5 @@ navbar:
       href: links.html
 output:
   html_document:
-    theme: cerulean
+    theme: spacelab
     highlight: espresso

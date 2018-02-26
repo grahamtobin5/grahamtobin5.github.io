@@ -1,6 +1,11 @@
 ---
 title: "About Me"
----
-![My brorther and I](/Users/grahamtobin/Downloads/IMG_1694.JPG)
 
-**About me:** Hello, my name is Graham Tobin. I am a junior at Appalachian State. I was born and raised in Hillsborough, North Carolina (a small town outside of Chapel Hill). One of the main reasons I chose to come to Boone for college is because my sister got got her bachelors degree here, and also because I love the mountains. I am studying Mathematics and Computer Science with aspirations to become a Software Developer. My hobbies include hiking with my dog, hanging out with friends, and snowboarding. 
+---
+
+<img src=pic1.JPG height="400px" width="300px" />
+
+
+
+
+Hello, my name is Graham Tobin. I am a junior at Appalachian State. I was born and raised in Hillsborough, North Carolina (a small town outside of Chapel Hill). My sister got her bachelors of education from Appalachian State, which is one of the main reasons I chose to come to Boone (I also love the mountains). I am studying Mathematics and Computer Science with aspirations to become a Software Developer. My hobbies include hiking with my dog, hanging out with friends, and snowboarding. 
