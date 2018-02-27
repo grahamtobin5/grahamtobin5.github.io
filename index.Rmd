@@ -5,5 +5,5 @@ classoption: Portrait
 
 Hello, welcome to my Website!
 
-![My brorther and I.](pic2.JPG)
+![My brother and I.](pic2.JPG)
 
