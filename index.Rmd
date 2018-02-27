@@ -1,9 +1,8 @@
 ---
 title: "Graham Tobin"
-classoption: Portrait
 ---
 
-Hello, welcome to my Website!
+Hello and welcome to my Website!
 
 ![My brother and I.](pic2.JPG)
 
